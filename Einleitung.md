@@ -1,32 +1,17 @@
-# Willkommen zur HTML Masterclass
+# Einleitung
 
-Hallo und herzlich willkommen! Schön, dass du dich entschieden hast, tief in die Welt von HTML einzutauchen. Vielleicht denkst du jetzt: "HTML? Das sind doch nur ein paar Tags, oder?" Genau hier setzen wir an. HTML ist das Fundament des Webs. Es ist die Sprache, die bestimmt, wie Inhalte strukturiert, verstanden und präsentiert werden – von Browsern, Suchmaschinen und Screenreadern gleichermaßen.
+Willkommen in der HTML-Masterclass.
 
-In diesem Buch geht es nicht darum, einfach nur Tags auswendig zu lernen. Es geht darum, HTML als professionelles Handwerk zu begreifen. Wir wollen gemeinsam eine solide Basis schaffen, auf der moderne, zugängliche und performante Webseiten stehen.
+HTML ist die unverzichtbare Basis jeder Website, jeder Web-App und jeder digitalen Schnittstelle, die wir täglich nutzen. Oft als einfache Auszeichnungssprache unterschätzt, bildet sie doch das robuste Fundament, auf dem Design, Interaktion und Zugänglichkeit aufbauen. Wer HTML wirklich beherrscht, schreibt nicht bloß Code, der funktioniert – sondern Code, der semantisch korrekt, barrierefrei und performant ist.
 
-## Deine Reise durch das Buch
+Dieses Buch ist dein Wegbegleiter von den ersten Tags bis hin zu professionellen Architektur-Entscheidungen. Wir beginnen dort, wo das Web seinen Ursprung hat: beim Verständnis des Browsers, des DOM und der Syntax, die das Internet zusammenhält. Du lernst, wie du Dokumente solide strukturierst, Textinhalte logisch auszeichnest und Hyperlinks sowie Pfade sicher handhabst.
 
-Wir haben dieses Curriculum so aufgebaut, dass es dich Schritt für Schritt von den absoluten Grundlagen bis hin zur professionellen Seitenarchitektur begleitet. Du wirst nicht nur lernen, *wie* man etwas schreibt, sondern vor allem *warum*.
+Doch modernes HTML leistet weit mehr als nur Textdarstellung. Wir tauchen tief ein in die Integration von Medien – von responsiven Bildern über Audio und Video bis hin zu eingebetteten Inhalten. Du wirst erfahren, wie du Formulare nicht nur baust, sondern sie benutzerfreundlich und validierbar gestaltest, und wie du mit nativen Elementen wie `details`, `dialog` und Popover interaktive Komponenten erschaffst, die früher aufwendiges JavaScript erforderten.
 
-Unsere Reise beginnt mit dem Verständnis des Webs selbst: Wie funktionieren Browser? Was passiert bei einer HTTP-Anfrage? Von dort aus richten wir deine Entwicklungsumgebung ein, damit du produktiv und effizient arbeiten kannst.
+Ein besonderer Schwerpunkt liegt auf der Qualität und Nachhaltigkeit deines Codes. Wir widmen uns ausführlich der Barrierefreiheit (Accessibility) und zeigen dir, wie du mit semantischem HTML und gezieltem ARIA-Einsatz sicherstellst, dass deine Webseiten für alle Menschen nutzbar sind. Ebenso beleuchten wir technische Aspekte wie SEO-relevante Metadaten, Performance-Optimierung durch Preloading und Lazy Loading sowie Sicherheitskonzepte wie die Content Security Policy (CSP).
 
-Sobald das Fundament steht, gehen wir in die Tiefe:
-*   **Struktur & Semantik:** Du lernst, wie du Dokumente logisch aufbaust, Texte gliederst und die Macht von HTML5 für eine klare Bedeutung nutzt.
-*   **Medien & Interaktion:** Wir binden Bilder, Audio und Video korrekt ein und bauen robuste Formulare, die benutzerfreundlich und sicher sind.
-*   **Barrierefreiheit (Accessibility):** Ein zentraler Schwerpunkt. Du wirst verstehen, wie du Webseiten so gestaltest, dass sie für alle Menschen nutzbar sind – von Tastaturnavigation bis hin zu Screenreadern und ARIA-Rollen.
-*   **Qualität & Performance:** Wir beschäftigen uns mit sauberem Code, SEO-Grundlagen, Ladezeiten und Sicherheit. Du lernst, wie du "Technical Debt" vermeidest und wartbaren Code schreibst.
-*   **Moderne Konzepte:** Wir schauen uns responsive Strukturen, Komponenten-Denken und das Zusammenspiel mit CSS und JavaScript an.
+Zum Abschluss wagen wir den Blick auf das große Ganze: Du lernst, wie du skalierbare HTML-Architekturen für Blogs, Shops oder Dokumentationen planst, Komponenten wiederverwendbar gestaltest und selbst Legacy-Code effizient modernisierst.
 
-## Praxisnah und systematisch
+Egal, ob du gerade erst startest oder dein Wissen auf ein Experten-Level heben möchtest – dieses Buch gibt dir das Werkzeug an die Hand, um das Web nicht nur zu nutzen, sondern es qualitativ hochwertig mitzugestalten.
 
-Jedes Kapitel baut auf dem vorherigen auf. Wir arbeiten uns von einfachen Textstrukturen über komplexe Komponenten bis hin zu einem vollständigen Abschlussprojekt vor: dem Aufbau einer professionellen HTML-Seite, in die alles Gelernte einfließt.
-
-Du wirst sehen, dass HTML weit mehr ist als nur das Gerüst einer Seite. Es ist der Schlüssel zu Performance, Sicherheit und einer guten User Experience. Wenn du HTML wirklich beherrschst, machst du das Web für alle besser.
-
-## Für wen ist dieses Buch?
-
-Dieses Buch ist für dich, wenn du mehr willst als nur "es funktioniert irgendwie". Es ist für angehende Webentwickler, die von Anfang an alles richtig machen wollen, aber auch für Fortgeschrittene, die ihre Lücken schließen und ihr Wissen auf ein professionelles Level heben möchten.
-
-Also, lass uns keine Zeit verlieren. Starte deinen Editor, mach dich bereit und lass uns gemeinsam das Web bauen – semantisch, zugänglich und professionell.
-
-Viel Erfolg und vor allem viel Spaß beim Lernen!
+Viel Erfolg auf deinem Weg zum HTML-Profi!
